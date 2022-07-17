@@ -1,0 +1,19 @@
+{
+  "name": "bucket",
+  "version": "0.0.1",
+  "description": "Share files using bucket",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelzimmermann/bucket.git"
+  },
+  "author": "Rafael Zimmermann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaelzimmermann/bucket/issues"
+  },
+  "homepage": "https://github.com/rafaelzimmermann/bucket#readme"
+}
